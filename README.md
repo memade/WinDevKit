@@ -34,5 +34,5 @@ WinDevKit is intended for personal use. It's not officially supported or maintai
 
 ## Contact
 
-If you have questions, suggestions, or feedback, please contact [your@email.com].
+If you have questions, suggestions, or feedback, please contact [k34ubll5@outlook.com].
 
